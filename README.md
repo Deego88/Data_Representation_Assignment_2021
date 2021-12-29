@@ -1,6 +1,4 @@
 # Data_Representation_Assignment_2021
-Data Representation Assignment 2021
-
 ## Higher Diploma in Data Analytics, Lecturer: Andrew Beatty
 ### Richard Deegan, G00387896
 
