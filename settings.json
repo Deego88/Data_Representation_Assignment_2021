@@ -1,0 +1,12 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "python.pythonPath": "C:\\Python38\\python.exe",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.defaultInterpreterPath": "C:\\Users\\ricky\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}
